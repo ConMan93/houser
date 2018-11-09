@@ -1,0 +1,5 @@
+-- insert into houses (name, address, city, state, zip)
+-- values 
+-- ('House1', '5959 Mupp Avenue', 'Salt Lake City', 'UT', 84117),
+-- ('House2', '600 Mupp Avenue', 'Salt Lake City', 'UT', 84104),
+-- ('House3', '919 Hilltop Road', 'Salt Lake City', 'UT', 84103);
